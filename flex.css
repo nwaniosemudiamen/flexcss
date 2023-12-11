@@ -1,3 +1,28 @@
-.div-cont{
-    
+ .div-cont{
+     height: 300px;
+    /* width: 100px; */
+    border-radius:1 ;
+    display: flex ;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
 }
+.div1 {
+height:50px;
+width:100px;
+background-color: black;
+}
+.div2 {height:50px;
+width:100px;
+background-color: blue;
+}
+.div3{ 
+    height:50px;
+width:100px;
+background-color:greenyellow;
+}
+.div4{height:50px;
+    width:100px;
+    background-color:blueviolet;}
+
+
